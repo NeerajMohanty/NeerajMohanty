@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I’m Neeraj.
 
-<!--
-**NeerajMohanty/NeerajMohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in capital project management and I build practical AI tools focused on real world problems.
 
-Here are some ideas to get you started:
+My background is in healthcare and public sector projects, where I’ve managed equipment sourcing and delivery for projects valued at $10M+ across multiple sites in Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I’m interested in:
+- AI assisted decision tools
+- Simple automation over complex systems
+- Canada focused data, infrastructure, and compliance aware solutions
+
+What I build:
+- Small, working tools with clear scope
+- MVPs that solve one problem end to end
+- Systems designed with project constraints in mind
+
+Tech I use:
+- Python
+- AWS Lambda
+- APIs
+- OpenAI
+- No code and low code tools when they make sense
+
+This GitHub is a record of what I build, test, and learn.
