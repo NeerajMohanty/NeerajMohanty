@@ -13,12 +13,13 @@ What I build:
 - Small, working tools with clear scope
 - MVPs that solve one problem end to end
 - Systems designed with project constraints in mind
+Find my projects at: https://github.com/NeerajMohanty/applied-ai-projects
 
 Tech I use:
+- No code and low code tools when they make sense: Cursor, Bolt.new, Replit, Claude Code
 - Python
 - AWS Lambda
 - APIs
 - OpenAI
-- No code and low code tools when they make sense
 
 This GitHub is a record of what I build, test, and learn.
