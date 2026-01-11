@@ -13,6 +13,7 @@ What I build:
 - Small, working tools with clear scope
 - MVPs that solve one problem end to end
 - Systems designed with project constraints in mind
+
 Find my projects at: https://github.com/NeerajMohanty/applied-ai-projects
 
 Tech I use:
