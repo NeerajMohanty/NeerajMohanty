@@ -1,8 +1,8 @@
 # Hi, I'm Neeraj.
 
-I work in capital project management and build practical AI tools for real operational problems.
+I build practical AI tools for operational environments.
 
-My background is in healthcare and public sector projects, where I manage equipment sourcing, coordination, and delivery across multi site initiatives in Canada.
+My background is in capital project management across healthcare and public sector work in Canada, and I use that experience to build tools shaped by real workflow, compliance, and delivery constraints.
 
 ## What I Build
 
