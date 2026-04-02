@@ -14,7 +14,7 @@ Built with Python, LangChain, Azure OpenAI, Azure AI Search, and CosmosDB. Deplo
 Includes architecture documentation, a Chainlit debug UI for testing and tuning, and Azure AI Foundry registration support for Microsoft 365 and Teams workflows.
 
 ### [Applied AI Projects](https://github.com/NeerajMohanty/applied-ai-projects)
-A set of smaller AI tools built around clear use cases and limited scope.
+A set of smaller AI tools built around specific use cases and limited scope.
 
 Projects include:
 - **[SimplTerms](https://github.com/NeerajMohanty/applied-ai-projects/tree/main/SimplTerms%3A%20a%20SOC%20II%20compliant%20contract%20assistant%20tool)**. Contract assistant that explains legal language in plain English, built for security conscious document workflows
