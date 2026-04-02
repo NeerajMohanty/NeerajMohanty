@@ -2,7 +2,7 @@
 
 I work in capital project management and build practical AI tools for real operational problems.
 
-My background is in healthcare and public sector projects, where I have managed equipment sourcing, coordination, and delivery across multi site initiatives in Canada.
+My background is in healthcare and public sector projects, where I managed equipment sourcing, coordination, and delivery across multi site initiatives in Canada.
 
 ## What I Build
 
