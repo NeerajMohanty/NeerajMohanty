@@ -17,8 +17,8 @@ Includes architecture documentation, a Chainlit debug UI for testing and tuning,
 A set of smaller AI tools built around clear use cases and limited scope.
 
 Projects include:
-- **SimplTerms**. Contract assistant that explains legal language in plain English, built for security conscious document workflows
-- **Real Estate AI Assistant**. Tool for property search, listing review, and basic analysis
+- **[SimplTerms](https://github.com/NeerajMohanty/applied-ai-projects/tree/main/SimplTerms%3A%20a%20SOC%20II%20compliant%20contract%20assistant%20tool)**. Contract assistant that explains legal language in plain English, built for security conscious document workflows
+- **[Real Estate AI Assistant](https://github.com/NeerajMohanty/applied-ai-projects/tree/main/Real_estate_ai_assistant)**. Tool for property search, listing review, and basic analysis
 
 ## What I Focus On
 
