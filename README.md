@@ -6,7 +6,45 @@ My background is in capital sourcing and project management within Canadian heal
 
 My current work focuses on systems where AI helps interpret information while important conclusions remain traceable, testable, and reviewable.
 
-GitHub: [github.com/NeerajMohanty](https://github.com/NeerajMohanty)
+---
+
+## Open Source Projects
+
+### RFxCheck
+
+**Open source semantic requirement checking for procurement.**
+
+[RFxCheck](https://github.com/NeerajMohanty/RFxCheck) is a Chrome extension that applies the same seven semantic checks to an RFx webpage and highlights the original source clauses that match:
+
+mandatory requirements · deadlines · disqualification conditions · insurance and bonding · certifications and licences · mandatory events · submission instructions
+
+Rather than summarising a solicitation, it evaluates each meaningful text block against seven bounded yes/no questions and outlines the clause a finding came from, so the source text stays the evidence.
+
+Manifest V3 · powered by [TypeSafe Jev](https://docs.typesafe.ai/) · bring your own Jev API key · no RFxCheck backend · no analytics · Apache 2.0
+
+Findings are semantic classifications for human review. RFxCheck does not determine bid compliance and is not legal advice.
+
+[View RFxCheck →](https://github.com/NeerajMohanty/RFxCheck)
+
+### LinkedIn Publisher
+
+**An explicit approval gate between an AI draft and a public profile.**
+
+[LinkedIn Publisher](https://github.com/NeerajMohanty/LinkedIn-publisher) is an open source MCP connector that lets Muse publish explicitly approved text posts to a user's own LinkedIn profile.
+
+```text
+Draft → review → explicit approval → publish
+```
+
+The connector enters only at the final step. It does not write the post, does not decide what is worth posting, and does not publish on its own initiative. There is no scheduler, so approval stays next to publication.
+
+Two tools, one of them read only · stateless, no database · official LinkedIn Posts API · no post content, drafts or tokens stored · Python · Apache 2.0
+
+It is deliberately kept small: a publishing step that stays a focused open source utility rather than becoming another subscription.
+
+[View LinkedIn Publisher →](https://github.com/NeerajMohanty/LinkedIn-publisher)
+
+Also open source: [Byzcard](https://github.com/NeerajMohanty/byzcard) and the [KnowAutism Content Monitor](https://github.com/NeerajMohanty/knowautism-content-agent), both described below.
 
 ---
 
@@ -458,11 +496,14 @@ They represent the progression from smaller AI experiments toward systems with s
 **ProcureTrace**
 Building an evidence control layer for procurement and broader organizational decision workflows.
 
+**RFxCheck**
+Extending repeatable, source first semantic checks for RFx review as an open source Chrome extension.
+
 **Enterprise AI**
 Building and studying agent orchestration, retrieval, evaluation, tool integration, and operational AI systems.
 
-**Byzcard**
-Developing a simple, privacy conscious, open source approach to digital identity and business card sharing.
+**Open source tooling**
+Small, focused tools with explicit boundaries — LinkedIn Publisher, Byzcard, and the KnowAutism Content Monitor.
 
 ---
 
